@@ -2,9 +2,33 @@
 
 A Open Source compressor based ventilator.
 
+<img src="Media/Main.jpg" alt="drawing" width="600"/>
+
 # UK Goverment Specs for a rapidly manufactured ventilator system
 
 https://www.gov.uk/government/publications/coronavirus-covid-19-ventilator-supply-specification/rapidly-manufactured-ventilator-system-specification
+
+# Project Overview 
+
+This project aims to buil a open source ventilator system for emergency breathing support. It doesn't aim to be a certified ventilator, only a fully funtional one.
+
+The system is based on the following assumptions:
+
+* Electrical Power Availability
+* Medical Grade Compressed Air Availability
+* O2 availability
+
+The system is built with commont pneumatic parts, the only custom part is the big bronze valve, which have been modified to be actuated pneumatically instead of electrically.
+
+This is the big photo of the system:
+
+<img src="Media/Overview.jpg" alt="drawing" width="600"/>
+
+The main pneumatic circuit is the folowing one:
+
+<img src="Media/IMG_0988.jpg" alt="drawing" width="600"/>
+
+
 
 # PEEP Pressure
 
@@ -77,7 +101,7 @@ The following should be continuously displayed so the user can verify:
 * if it exists, in pressure support mode there must be real-time confirmation of each patient breath and an alarm if below acceptable range
 * optionally CO2 monitoring included
 
-##Miscellaneous
+## Miscellaneous
 * Must be reliable. It must have 100% duty cycle for up to 14 days.
 
 # TODOs
