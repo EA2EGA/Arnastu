@@ -2,7 +2,7 @@
 
 A Open Source compressor based ventilator.
 
-<img src="Media/Main.jpg" alt="drawing" width="600"/>
+<img src="Media/Main.JPG" alt="drawing" width="600"/>
 
 # UK Goverment Specs for a rapidly manufactured ventilator system
 
@@ -22,11 +22,11 @@ The system is built with commont pneumatic parts, the only custom part is the bi
 
 This is the big photo of the system:
 
-<img src="Media/Overview.jpg" alt="drawing" width="600"/>
+<img src="Media/Overview.JPG" alt="drawing" width="600"/>
 
 The main pneumatic circuit is the folowing one:
 
-<img src="Media/IMG_0988.jpg" alt="drawing" width="600"/>
+<img src="Media/IMG_0988.JPG" alt="drawing" width="600"/>
 
 
 
